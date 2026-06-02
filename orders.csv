@@ -1,0 +1,11 @@
+﻿order_id,customer_id,restaurant_id,agent_id,order_date,delivery_time_minutes,order_status,payment_method,total_amount
+O401,C101,R201,A301,01-05-2025,30,Delivered,UPI,550
+O402,C102,R202,A302,02-05-2025,45,Delivered,Card,780
+O403,C103,R203,A303,03-05-2025,25,Delivered,Cash,420
+O404,C104,R201,A301,03-05-2025,35,Cancelled,UPI,0
+O405,C105,R204,A304,04-05-2025,40,Delivered,Card,950
+O406,C106,R205,A305,05-05-2025,28,Delivered,UPI,620
+O407,C107,R206,A305,06-05-2025,50,Delivered,Cash,300
+O408,C108,R201,A301,06-05-2025,20,Delivered,UPI,450
+O409,C101,R203,A303,07-05-2025,33,Delivered,Card,670
+O410,C102,R202,A302,08-05-2025,38,Delivered,UPI,890

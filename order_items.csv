@@ -1,0 +1,13 @@
+﻿order_item_id,order_id,item_name,category,quantity,price
+I501,O401,Butter Chicken,Main Course,2,250
+I502,O401,Naan,Bread,4,25
+I503,O402,Farmhouse Pizza,Pizza,1,550
+I504,O402,Garlic Bread,Sides,2,115
+I505,O403,Cheese Burger,Burger,2,180
+I506,O404,Paneer Curry,Main Course,1,300
+I507,O405,Chicken Biryani,Biryani,3,250
+I508,O406,Sushi Roll,Sushi,2,280
+I509,O407,Cold Coffee,Beverage,2,150
+I510,O408,Butter Naan,Bread,5,20
+I511,O409,Veg Burger,Burger,3,200
+I512,O410,Cheese Pizza,Pizza,2,400
